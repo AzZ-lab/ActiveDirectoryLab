@@ -1,7 +1,7 @@
 <h1>Active Directory Lab</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+I will guide you through the process of setting up a comprehensive home lab environment that includes Active Directory, Splunk, Kali Linux, and Atomic Red Team. This lab will allow you to explore how a domain environment operates, learn how to ingest and analyze events using a Security Information and Event Management (SIEM) system, and generate telemetry data related to real-world attacks to help you detect them in the future.
 <br />
 
 
