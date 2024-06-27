@@ -40,8 +40,9 @@ Now set up a NAT network and connect each Vm to it  :  <br/>
 <img src="https://i.imgur.com/grXb3KJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up ur static IP :  <br/>
+<img src="https://i.imgur.com/QQ0HERY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QQ0HERY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
