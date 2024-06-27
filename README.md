@@ -46,7 +46,7 @@ Set up ur static IP :  <br/>
 <img src="https://i.imgur.com/mL54tXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add user to the virtual box:  <br/>
+Add user to the virtual box (if VB isn't installed make sure to install using 'sudo apt-get virtualbox':  <br/>
 <img src="https://i.imgur.com/aDzgMTi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
