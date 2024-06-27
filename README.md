@@ -7,7 +7,7 @@ I will guide you through the process of setting up a comprehensive home lab envi
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+
 - <b>Oracle Virtualbox</b>
 - <b>Kali linux</b>
 - <b>splunk</b>
