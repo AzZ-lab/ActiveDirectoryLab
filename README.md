@@ -28,7 +28,7 @@ Download the Windows server 2022 ISO:  <br/>
 <img src="https://i.imgur.com/NcYFrDa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now We have everything download and set up to progress: <br/>
+Now We have everything downloaded and can now progress: <br/>
 <img src="https://i.imgur.com/hdHdQK7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
