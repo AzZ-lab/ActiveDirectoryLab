@@ -36,7 +36,7 @@ Now we have set up splunk and have 4 VMs:  <br/>
 <img src="https://i.imgur.com/uC3ZYMs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now set up each VM to NAT:  <br/>
+Now set up a NAT network and connect each Vm to it  :  <br/>
 <img src="https://i.imgur.com/grXb3KJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
