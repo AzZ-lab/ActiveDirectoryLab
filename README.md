@@ -21,33 +21,37 @@ I will guide you through the process of setting up a comprehensive home lab envi
 
 <p align="center">
 Set up your Vm with Oracle: <br/>
-<img src="https://i.imgur.com/lWzCq0l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lWzCq0l.png" height="80%" width="80%">
 <br />
 <br />
 Download the Windows server 2022 ISO:  <br/>
-<img src="https://i.imgur.com/NcYFrDa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NcYFrDa.png" height="80%" width="80%"> 
 <br />
 <br />
 Now We have everything downloaded and can now progress: <br/>
-<img src="https://i.imgur.com/hdHdQK7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img src="https://i.imgur.com/hdHdQK7.png" height="80%" width="80%"> 
 <br />
 Now we have set up splunk and have 4 VMs:  <br/>
-<img src="https://i.imgur.com/uC3ZYMs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uC3ZYMs.png" height="80%" width="80%"> 
 <br />
 <br />
 Now set up a NAT network and connect each Vm to it  :  <br/>
-<img src="https://i.imgur.com/grXb3KJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/grXb3KJ.png" height="80%" width="80%">
 <br />
 <br />
 Set up ur static IP :  <br/>
-<img src="https://i.imgur.com/QQ0HERY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/q1mmEwh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/mL54tXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QQ0HERY.png" height="80%" width="80%"> 
+<img src="https://i.imgur.com/q1mmEwh.png" height="80%" width="80%"> 
+<img src="https://i.imgur.com/mL54tXr.png" height="80%" width="80%">
 <br />
 <br />
 Add user to the virtual box (if VB isn't installed make sure to install using 'sudo apt-get virtualbox':  <br/>
-<img src="https://i.imgur.com/aDzgMTi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eYtNJFo.png" height="80%" width="80%">
+<br/>
+<br/>
+shut up <br/>
+<img src="https://i.imgur.com/grXb3KJ.png" height="80%" width="80%" alt=
+<br />
 </p>
 
 <!--
