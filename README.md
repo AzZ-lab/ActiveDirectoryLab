@@ -49,8 +49,10 @@ Add user to the virtual box (if VB isn't installed make sure to install using 's
 <img src="https://i.imgur.com/eYtNJFo.png" height="80%" width="80%">
 <br/>
 <br/>
-Now we mount our shared folder to our directory<br/>
+Now we mount our shared folder to our directory <br/>
 <img src="https://i.imgur.com/D4I6zvm.png" height="80%" width="80%" 
+<br/>
+
 
 
 
