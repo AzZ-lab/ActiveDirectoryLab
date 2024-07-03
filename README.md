@@ -51,8 +51,8 @@ Add user to the virtual box (if VB isn't installed make sure to install using 's
 <br/>
 Now we mount our shared folder to our directory<br/>
 <img src="https://i.imgur.com/D4I6zvm.png" height="80%" width="80%" 
-<img src="https://i.imgur.com/MIH2rec.png" height="80%" width="80%" 
-<br />
+
+
 
 
 <!--
