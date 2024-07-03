@@ -52,16 +52,12 @@ Add user to the virtual box (if VB isn't installed make sure to install using 's
 Now we mount our shared folder to our directory <br/>
 <img src="https://i.imgur.com/D4I6zvm.png" height="80%" width="80%" 
 <br/>
+<br/>
+<img src="https://i.imgur.com/RF3CqMW.png" height="80%" width="80%">
 
 
 
 
 
-<!--
- ```diff
-- text in red 
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
+
